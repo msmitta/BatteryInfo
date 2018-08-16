@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BatteryInfo</string>
+
+    ///Text for notification
+    <string name="notification_title_missingstatistics">Too less statistics</string>
+    <string name="notification_title_charges">Battery is charging</string>
+    <string name="notification_title_discharges">On battery</string>
+    <string formatted="true" name="notification_text_estimate">%1$d hour(s) and %2$d minute(s) remaining</string>
+    <string name="notification_text_estimate_na">Estimation currently not available</string>
+    <string name="notification_text_missingstatistics">Please wait some more minutes</string>
+
+</resources>
